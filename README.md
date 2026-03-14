@@ -3,7 +3,6 @@
 - 🚀 Preparando-se para o mercado de tecnologia
 ## 📫 Como me encontrar
 [![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:b.a.nogueira@outlook.com)
-
 ### 🛠️ Tecnologias que estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40"
