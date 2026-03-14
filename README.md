@@ -16,3 +16,4 @@
   <img align="center" alt="Csharp" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
+"Sempre aprendendo e evoluindo "
